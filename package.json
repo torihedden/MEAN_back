@@ -1,0 +1,19 @@
+{
+  "name": "mean_test",
+  "version": "1.0.0",
+  "description": "test MEAN",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3",
+    "mongodb": "^3.0.6"
+  },
+  "devDependencies": {}
+}
